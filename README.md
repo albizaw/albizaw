@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1>Hi 👋, I am Albert Zawada!</h1>
+
+🎓 Currently a third-year student of <b>Industrial Computer Science</b> in AGH University of Science and Technology. 
+
+
+🛠 Interested in <b>web technologies</b>, open minded and eager to broaden horizons.
+
+🗯️ I am currently looking for an internship in the same field ☝️💻.
+
+<h1>🛠️ Skills !</h1>
+
 
 <!--
 **albizaw/albizaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
