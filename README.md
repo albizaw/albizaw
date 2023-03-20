@@ -22,6 +22,10 @@
 
 
 <h3>🔗 Links</h3>
+
+<a href="https://www.linkedin.com/in/albert-zawada-28aa11200/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albertzawada@interia.pl)
+<a href="https://github.com/albizaw" target="_blank">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
 <!--
 **albizaw/albizaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
