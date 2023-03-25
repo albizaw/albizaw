@@ -1,4 +1,4 @@
-<h3>Hi 👋, I am Albert Zawada!</h3>
+<h2>Hi 👋, I am Albert Zawada!</h2>
 
 - 🎓 Currently a third-year student of <b>Industrial Computer Science</b> in <b><i>AGH University of Science and Technology</i></b>. 
 
@@ -7,10 +7,11 @@
 - 🌱 I am currently making projects with React.
 
 - 🗯️ Looking for an internship in the same field 💻.
+
+
+
 <hr>
-
-
-<b>Languages</b>
+<h2>Languages</h2>
 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
